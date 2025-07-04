@@ -1,5 +1,3 @@
-
-````markdown
 # 🧮 C Expression-Based Calculator
 
 A lightweight yet powerful command-line calculator written in C. It supports standard arithmetic expressions, memory operations, and additional mathematical functions — all in a single-line input, just like a real calculator!
